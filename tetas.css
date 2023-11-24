@@ -17,7 +17,7 @@
 .encabezado1{
                 width: 96%;
                 height: 100px;
-                background-color: #FF0000;
+                background-color: #c5170f;
                 margin: 20px 20px 20px 20px ;
                 border:4px inset black;
 }
@@ -26,7 +26,7 @@
                 width: 70%;
                 height: 100px;
                 float: right;
-                background-color: #FFFF00;
+                background-color: #fcf75e;
                 margin: 20px 20px 20px 20px ;
                 border:4px inset black;
 }
@@ -34,7 +34,7 @@
 .contenido{
                 width: 96%;
                 height: 600px;
-                background-color: #FFFF00;
+                background-color: #fcf75e;
                 margin: 20px 20px 20px 20px ;
                 border:4px inset black;
 }
@@ -42,7 +42,7 @@
 .menu{
                 width: 20%;
                 height: 550px;
-                background-color: #FFFF00;
+                background-color: #fcf75e;
                 margin: 20px 20px 20px 20px ;
                 float: left;
                 border:4px inset black;
@@ -52,7 +52,7 @@
 .pagina{
                 width: 70%;
                 height: 400px;
-                background-color: #FFFF00;
+                background-color: #fcf75e;
                 margin: 20px 20px 20px 20px ;
                 float: right;
                 border:4px inset black;
@@ -62,7 +62,7 @@
 .piepagina{
                 width: 96%;
                 height: 100px;
-                background-color: #FF0000;
+                background-color: #c5170f;
                 margin: 20px 20px 20px 20px ;
                 border-color: black;
                 border:2px;
