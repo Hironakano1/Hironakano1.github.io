@@ -70,3 +70,8 @@
                 font-family:Arial;
                 font-size: 10px;
 }
+.miboton {
+          background-color:yellow; 
+          border:5px inset red;
+}
+}
