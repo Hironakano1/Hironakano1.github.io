@@ -74,4 +74,8 @@
           background-color:yellow; 
           border:5px inset red;
 }
+.miboton:hover {
+          background-color:red; 
+          border:5px inset yellow;
 }
+
